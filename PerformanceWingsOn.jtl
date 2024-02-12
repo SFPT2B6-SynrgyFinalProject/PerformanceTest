@@ -1,0 +1,801 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1707754705063,3526,Register,201,Created,Thread Group 1-1,text,true,,705,405,1,1,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3526,0,75
+1707754708589,1364,Login,200,OK,Thread Group 1-1,text,true,,730,274,2,2,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1363,0,0
+1707754709953,1500,Notification,200,OK,Thread Group 1-1,text,true,,3785,367,2,2,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,1499,0,0
+1707754711453,867,Get Flight Classes,200,OK,Thread Group 1-1,text,true,,558,183,2,2,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,866,0,0
+1707754709058,3515,Register,201,Created,Thread Group 1-2,text,true,,705,405,2,2,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3515,0,63
+1707754712321,656,Get Airport,200,OK,Thread Group 1-1,text,true,,774,193,2,2,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,656,0,0
+1707754712573,1368,Login,200,OK,Thread Group 1-2,text,true,,730,274,3,3,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1364,0,0
+1707754713941,1300,Notification,200,OK,Thread Group 1-2,text,true,,3778,367,3,3,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,1291,0,0
+1707754715241,658,Get Flight Classes,200,OK,Thread Group 1-2,text,true,,558,183,3,3,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,654,0,0
+1707754715899,656,Get Airport,200,OK,Thread Group 1-2,text,true,,768,193,3,3,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,652,0,0
+1707754713058,3505,Register,201,Created,Thread Group 1-3,text,true,,705,405,3,3,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3505,0,64
+1707754716563,1167,Login,200,OK,Thread Group 1-3,text,true,,730,274,4,4,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1163,0,0
+1707754712978,5688,Get Ticket,200,OK,Thread Group 1-1,text,true,,10473,573,4,4,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5681,0,0
+1707754717731,1511,Notification,200,OK,Thread Group 1-3,text,true,,3778,367,4,4,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,1502,0,0
+1707754719242,867,Get Flight Classes,200,OK,Thread Group 1-3,text,true,,558,183,4,4,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,863,0,0
+1707754717064,3511,Register,201,Created,Thread Group 1-4,text,true,,705,405,4,4,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3511,0,65
+1707754720109,653,Get Airport,200,OK,Thread Group 1-3,text,true,,768,193,4,4,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,653,0,0
+1707754720576,1162,Login,200,OK,Thread Group 1-4,text,true,,730,274,5,5,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1160,0,0
+1707754716555,5685,Get Ticket,200,OK,Thread Group 1-2,text,true,,10439,573,5,5,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5647,0,0
+1707754721739,1303,Notification,200,OK,Thread Group 1-4,text,true,,3778,367,5,5,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,1295,0,0
+1707754723043,660,Get Flight Classes,200,OK,Thread Group 1-4,text,true,,558,183,5,5,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,656,0,0
+1707754723703,455,Get Airport,200,OK,Thread Group 1-4,text,true,,768,193,5,5,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,451,0,0
+1707754721069,3516,Register,201,Created,Thread Group 1-5,text,true,,705,405,5,5,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3516,0,64
+1707754718667,6079,Create Order,200,OK,Thread Group 1-1,text,true,,1531,792,5,5,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,6077,0,0
+1707754724585,1165,Login,200,OK,Thread Group 1-5,text,true,,730,274,6,6,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1164,0,0
+1707754720763,5688,Get Ticket,200,OK,Thread Group 1-3,text,true,,10439,573,6,6,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5668,0,0
+1707754725750,1304,Notification,200,OK,Thread Group 1-5,text,true,,3778,367,6,6,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,1296,0,0
+1707754727055,801,Get Flight Classes,200,OK,Thread Group 1-5,text,true,,558,183,6,6,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,797,0,0
+1707754722240,6059,Create Order,200,OK,Thread Group 1-2,text,true,,1524,792,6,6,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,6057,0,0
+1707754727856,451,Get Airport,200,OK,Thread Group 1-5,text,true,,768,193,6,6,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,446,0,0
+1707754725070,3326,Register,201,Created,Thread Group 1-6,text,true,,705,405,6,6,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3326,0,63
+1707754724746,4703,Order Detail,200,OK,Thread Group 1-1,text,true,,1566,384,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=1cfc241,4702,0,0
+1707754728396,1163,Login,200,OK,Thread Group 1-6,text,true,,730,274,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1159,0,0
+1707754724158,5470,Get Ticket,200,OK,Thread Group 1-4,text,true,,10439,573,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5430,0,0
+1707754729560,1450,Notification,200,OK,Thread Group 1-6,text,true,,3778,367,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,1441,0,0
+1707754731010,818,Get Flight Classes,200,OK,Thread Group 1-6,text,true,,558,183,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,813,0,0
+1707754726451,5887,Create Order,200,OK,Thread Group 1-3,text,true,,1524,792,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,5881,0,0
+1707754729068,3364,Register,201,Created,Thread Group 1-7,text,true,,705,405,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3364,0,68
+1707754731829,715,Get Airport,200,OK,Thread Group 1-6,text,true,,768,193,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,711,0,0
+1707754728299,4415,Order Detail,200,OK,Thread Group 1-2,text,true,,1566,384,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=61395d8,4412,0,0
+1707754732433,1166,Login,200,OK,Thread Group 1-7,text,true,,730,274,8,8,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1162,0,0
+1707754729449,4294,Pay Order,200,OK,Thread Group 1-1,text,true,,540,552,8,8,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,4294,0,0
+1707754728307,5455,Get Ticket,200,OK,Thread Group 1-5,text,true,,10453,573,8,8,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5416,0,0
+1707754733600,1451,Notification,200,OK,Thread Group 1-7,text,true,,4072,367,8,8,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,1440,0,0
+1707754729628,6072,Create Order,200,OK,Thread Group 1-4,text,true,,1524,792,8,8,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,6066,0,0
+1707754735051,657,Get Flight Classes,200,OK,Thread Group 1-7,text,true,,558,183,8,8,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,656,0,0
+1707754735708,605,Get Airport,200,OK,Thread Group 1-7,text,true,,768,193,8,8,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,601,0,0
+1707754733067,3546,Register,201,Created,Thread Group 1-8,text,true,,705,405,8,8,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3546,0,62
+1707754732338,4798,Order Detail,200,OK,Thread Group 1-3,text,true,,1566,384,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=91eec8e,4793,0,0
+1707754732715,4519,Pay Order,200,OK,Thread Group 1-2,text,true,,540,552,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,4515,0,0
+1707754733743,3829,Get Order,200,OK,Thread Group 1-1,text,true,,1026,377,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,3829,0,0
+1707754732544,5510,Get Ticket,200,OK,Thread Group 1-6,text,true,,10439,573,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5471,0,0
+1707754736613,1537,Login,200,OK,Thread Group 1-8,text,true,,730,274,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1536,0,0
+1707754733763,6528,Create Order,200,OK,Thread Group 1-5,text,true,,1524,792,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,6520,0,0
+1707754735701,4659,Order Detail,200,OK,Thread Group 1-4,text,true,,1566,384,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=fd6a828,4653,0,0
+1707754737069,3497,Register,201,Created,Thread Group 1-9,text,true,,705,405,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3497,0,64
+1707754737572,3148,Delete Order,200,OK,Thread Group 1-1,text,true,,540,562,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=1cfc241,3148,0,0
+1707754738150,2832,Notification,200,OK,Thread Group 1-8,text,true,,4366,367,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,2831,0,0
+1707754740566,1341,Login,200,OK,Thread Group 1-9,text,true,,730,274,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1337,0,0
+1707754740983,1335,Get Flight Classes,200,OK,Thread Group 1-8,text,true,,558,183,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1335,0,0
+1707754737234,5085,Get Order,200,OK,Thread Group 1-2,text,true,,1514,377,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,5083,0,0
+1707754736314,6046,Get Ticket,200,OK,Thread Group 1-7,text,true,,10439,573,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6006,0,0
+1707754737136,5363,Pay Order,200,OK,Thread Group 1-3,text,true,,540,552,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,5359,0,0
+1707754742319,455,Get Airport,200,OK,Thread Group 1-8,text,true,,768,193,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,455,0,0
+1707754740721,2219,Get User,200,OK,Thread Group 1-1,text,true,,619,358,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,2219,0,0
+1707754741907,1674,Notification,200,OK,Thread Group 1-9,text,true,,4661,367,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,1661,0,0
+1707754743581,660,Get Flight Classes,200,OK,Thread Group 1-9,text,true,,558,183,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,657,0,0
+1707754742320,2315,Delete Order,200,OK,Thread Group 1-2,text,true,,540,562,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=61395d8,2314,0,0
+1707754744241,603,Get Airport,200,OK,Thread Group 1-9,text,true,,768,193,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,599,0,0
+1707754742941,1926,Update User,200,OK,Thread Group 1-1,text,true,,619,558,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1924,0,0
+1707754740291,4596,Order Detail,200,OK,Thread Group 1-5,text,true,,1566,384,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=442924b,4590,0,0
+1707754740361,4562,Pay Order,200,OK,Thread Group 1-4,text,true,,540,552,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,4558,0,0
+1707754741069,4227,Register,201,Created,Thread Group 1-10,text,true,,705,405,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4227,0,73
+1707754738055,7470,Create Order,200,OK,Thread Group 1-6,text,true,,1524,792,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,7464,0,0
+1707754744636,1294,Get User,200,OK,Thread Group 1-2,text,true,,619,358,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1290,0,0
+1707754745296,1169,Login,200,OK,Thread Group 1-10,text,true,,730,274,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1166,0,0
+1707754744867,1678,Update Password,200,OK,Thread Group 1-1,text,true,,524,498,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,1677,0,0
+1707754742499,4378,Get Order,200,OK,Thread Group 1-3,text,true,,2002,377,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,4376,0,0
+1707754745931,1978,Update User,200,OK,Thread Group 1-2,text,true,,619,558,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1975,0,0
+1707754746545,1778,Forget Password,200,OK,Thread Group 1-1,text,true,,618,252,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1778,0,0
+1707754742775,5602,Get Ticket,200,OK,Thread Group 1-8,text,true,,10466,573,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5594,0,0
+1707754745068,3482,Register,201,Created,Thread Group 1-11,text,true,,709,405,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3482,0,63
+1707754742361,6318,Create Order,200,OK,Thread Group 1-7,text,true,,1524,792,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,6312,0,0
+1707754746465,2499,Notification,200,OK,Thread Group 1-10,text,true,,4955,367,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,2483,0,0
+1707754744924,4145,Get Order,200,OK,Thread Group 1-4,text,true,,1514,377,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,4138,0,0
+1707754744887,4349,Pay Order,200,OK,Thread Group 1-5,text,true,,540,552,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,4347,0,0
+1707754748964,687,Get Flight Classes,200,OK,Thread Group 1-10,text,true,,558,183,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,682,0,0
+1707754747909,1851,Update Password,200,OK,Thread Group 1-2,text,true,,524,498,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,1850,0,0
+1707754748323,1485,Reset Password,201,Created,Thread Group 1-1,text,true,,768,279,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1485,0,0
+1707754746877,2954,Delete Order,200,OK,Thread Group 1-3,text,true,,540,562,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=91eec8e,2951,0,0
+1707754748551,1330,Login,200,OK,Thread Group 1-11,text,true,,730,274,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1326,0,0
+1707754749651,452,Get Airport,200,OK,Thread Group 1-10,text,true,,768,193,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,447,0,0
+1707754744844,5459,Get Ticket,200,OK,Thread Group 1-9,text,true,,10439,573,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5452,0,0
+1707754745525,5173,Order Detail,200,OK,Thread Group 1-6,text,true,,1566,384,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=8ebc7ca,5166,0,0
+1707754749831,1438,Get User,200,OK,Thread Group 1-3,text,true,,619,358,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1435,0,0
+1707754749069,2294,Delete Order,200,OK,Thread Group 1-4,text,true,,540,562,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=fd6a828,2291,0,0
+1707754749761,1712,Forget Password,200,OK,Thread Group 1-2,text,true,,618,252,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1711,0,0
+1707754749882,1877,Notification,200,OK,Thread Group 1-11,text,true,,5249,367,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,1859,0,0
+1707754749069,3598,Register,201,Created,Thread Group 1-12,text,true,,705,405,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3598,0,63
+1707754751269,1466,Update User,200,OK,Thread Group 1-3,text,true,,619,558,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1462,0,0
+1707754751759,1324,Get Flight Classes,200,OK,Thread Group 1-11,text,true,,558,183,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1321,0,0
+1707754751474,1689,Reset Password,201,Created,Thread Group 1-2,text,true,,768,279,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1689,0,0
+1707754751364,2001,Get User,200,OK,Thread Group 1-4,text,true,,619,358,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1997,0,0
+1707754749236,4181,Get Order,200,OK,Thread Group 1-5,text,true,,1514,377,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,4175,0,0
+1707754748679,4817,Order Detail,200,OK,Thread Group 1-7,text,true,,1566,384,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=4e15ccf,4810,0,0
+1707754753084,488,Get Airport,200,OK,Thread Group 1-11,text,true,,768,193,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,487,0,0
+1707754752667,1334,Login,200,OK,Thread Group 1-12,text,true,,730,274,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1330,0,0
+1707754748377,5906,Create Order,200,OK,Thread Group 1-8,text,true,,1524,792,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,5905,0,0
+1707754752735,1867,Update Password,200,OK,Thread Group 1-3,text,true,,524,498,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,1863,0,0
+1707754753366,1339,Update User,200,OK,Thread Group 1-4,text,true,,619,558,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1334,0,0
+1707754750698,4573,Pay Order,200,OK,Thread Group 1-6,text,true,,540,552,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,4570,0,0
+1707754754001,1468,Notification,200,OK,Thread Group 1-12,text,true,,5543,367,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,1450,0,0
+1707754750103,5627,Get Ticket,200,OK,Thread Group 1-10,text,true,,10439,573,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5588,0,0
+1707754753417,2320,Delete Order,200,OK,Thread Group 1-5,text,true,,540,562,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=442924b,2316,0,0
+1707754755469,680,Get Flight Classes,200,OK,Thread Group 1-12,text,true,,558,183,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,677,0,0
+1707754753068,3360,Register,201,Created,Thread Group 1-13,text,true,,705,405,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3360,0,66
+1707754754603,1961,Forget Password,200,OK,Thread Group 1-3,text,true,,618,252,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1959,0,0
+1707754750304,6269,Create Order,200,OK,Thread Group 1-9,text,true,,1524,792,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,6265,0,0
+1707754754706,1991,Update Password,200,OK,Thread Group 1-4,text,true,,524,498,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,1986,0,0
+1707754756149,577,Get Airport,200,OK,Thread Group 1-12,text,true,,768,193,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,572,0,0
+1707754755737,1450,Get User,200,OK,Thread Group 1-5,text,true,,619,358,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1445,0,0
+1707754756428,1165,Login,200,OK,Thread Group 1-13,text,true,,730,274,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1163,0,0
+1707754756564,1476,Reset Password,201,Created,Thread Group 1-3,text,true,,768,279,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1476,0,0
+1707754753496,4639,Pay Order,200,OK,Thread Group 1-7,text,true,,540,552,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,4639,0,0
+1707754756697,1740,Forget Password,200,OK,Thread Group 1-4,text,true,,618,252,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1737,0,0
+1707754754283,4876,Order Detail,200,OK,Thread Group 1-8,text,true,,1566,384,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=e3f8d01,4875,0,0
+1707754753572,5743,Get Ticket,200,OK,Thread Group 1-11,text,true,,10439,573,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5703,0,0
+1707754757187,2283,Update User,200,OK,Thread Group 1-5,text,true,,619,558,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,2281,0,0
+1707754755271,4279,Get Order,200,OK,Thread Group 1-6,text,true,,1514,377,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,4272,0,0
+1707754757593,2196,Notification,200,OK,Thread Group 1-13,text,true,,5837,367,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,2191,0,0
+1707754758437,1766,Reset Password,201,Created,Thread Group 1-4,text,true,,768,279,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1766,0,0
+1707754759789,834,Get Flight Classes,200,OK,Thread Group 1-13,text,true,,558,183,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,832,0,0
+1707754757068,3970,Register,201,Created,Thread Group 1-14,text,true,,705,405,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3970,0,66
+1707754760623,622,Get Airport,200,OK,Thread Group 1-13,text,true,,768,193,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,620,0,0
+1707754759471,1842,Update Password,200,OK,Thread Group 1-5,text,true,,524,498,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,1841,0,0
+1707754756574,4780,Order Detail,200,OK,Thread Group 1-9,text,true,,1566,384,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=71858dd,4774,0,0
+1707754755730,6027,Create Order,200,OK,Thread Group 1-10,text,true,,1524,792,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,6022,0,0
+1707754759550,2531,Delete Order,200,OK,Thread Group 1-6,text,true,,540,562,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=8ebc7ca,2528,0,0
+1707754761038,1167,Login,200,OK,Thread Group 1-14,text,true,,730,274,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1160,0,0
+1707754758136,4282,Get Order,200,OK,Thread Group 1-7,text,true,,1514,377,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,4275,0,0
+1707754756726,5706,Get Ticket,200,OK,Thread Group 1-12,text,true,,10439,573,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5690,0,0
+1707754761313,1894,Forget Password,200,OK,Thread Group 1-5,text,true,,618,252,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1890,0,0
+1707754759160,4348,Pay Order,200,OK,Thread Group 1-8,text,true,,540,552,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,4347,0,0
+1707754762081,1754,Get User,200,OK,Thread Group 1-6,text,true,,619,358,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1751,0,0
+1707754762205,1703,Notification,200,OK,Thread Group 1-14,text,true,,6131,367,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,1679,0,0
+1707754761067,3333,Register,201,Created,Thread Group 1-15,text,true,,705,405,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3333,0,68
+1707754762418,2315,Delete Order,200,OK,Thread Group 1-7,text,true,,540,562,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=4e15ccf,2312,0,0
+1707754763909,911,Get Flight Classes,200,OK,Thread Group 1-14,text,true,,558,183,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,906,0,0
+1707754763207,1854,Reset Password,201,Created,Thread Group 1-5,text,true,,768,279,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1854,0,0
+1707754759315,6057,Create Order,200,OK,Thread Group 1-11,text,true,,1524,792,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,6051,0,0
+1707754763835,1614,Update User,200,OK,Thread Group 1-6,text,true,,619,558,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1610,0,0
+1707754764820,756,Get Airport,200,OK,Thread Group 1-14,text,true,,768,193,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,752,0,0
+1707754764401,1256,Login,200,OK,Thread Group 1-15,text,true,,730,274,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1251,0,0
+1707754761354,4679,Pay Order,200,OK,Thread Group 1-9,text,true,,540,552,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,4678,0,0
+1707754764733,1365,Get User,200,OK,Thread Group 1-7,text,true,,619,358,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1362,0,0
+1707754761758,4600,Order Detail,200,OK,Thread Group 1-10,text,true,,1566,384,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=7461754,4594,0,0
+1707754761245,5807,Get Ticket,200,OK,Thread Group 1-13,text,true,,10439,573,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5453,0,0
+1707754765449,1688,Update Password,200,OK,Thread Group 1-6,text,true,,524,498,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,1687,0,0
+1707754765657,1673,Notification,200,OK,Thread Group 1-15,text,true,,6425,367,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,1647,0,0
+1707754766098,1702,Update User,200,OK,Thread Group 1-7,text,true,,619,558,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1702,0,0
+1707754763508,4349,Get Order,200,OK,Thread Group 1-8,text,true,,1514,377,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,4347,0,0
+1707754767330,886,Get Flight Classes,200,OK,Thread Group 1-15,text,true,,558,183,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,884,0,0
+1707754765067,3406,Register,201,Created,Thread Group 1-16,text,true,,705,405,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3406,0,67
+1707754762432,6290,Create Order,200,OK,Thread Group 1-12,text,true,,1524,792,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,6289,0,0
+1707754767138,2112,Forget Password,200,OK,Thread Group 1-6,text,true,,618,252,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2112,0,0
+1707754768216,1105,Get Airport,200,OK,Thread Group 1-15,text,true,,768,193,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1101,0,0
+1707754765372,4502,Order Detail,200,OK,Thread Group 1-11,text,true,,1566,384,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=c7f8452,4494,0,0
+1707754766033,3965,Get Order,200,OK,Thread Group 1-9,text,true,,1514,377,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,3959,0,0
+1707754768474,1761,Login,200,OK,Thread Group 1-16,text,true,,730,274,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1757,0,0
+1707754766358,4339,Pay Order,200,OK,Thread Group 1-10,text,true,,540,552,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,4335,0,0
+1707754767801,3214,Update Password,200,OK,Thread Group 1-7,text,true,,524,498,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,3211,0,0
+1707754765576,5676,Get Ticket,200,OK,Thread Group 1-14,text,true,,10439,573,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5639,0,0
+1707754767857,3841,Delete Order,200,OK,Thread Group 1-8,text,true,,540,562,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=e3f8d01,3838,0,0
+1707754769250,2670,Reset Password,201,Created,Thread Group 1-6,text,true,,768,279,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2670,0,0
+1707754769067,4220,Register,201,Created,Thread Group 1-17,text,true,,705,405,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4220,0,72
+1707754771015,2364,Forget Password,200,OK,Thread Group 1-7,text,true,,618,252,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2360,0,0
+1707754767053,6761,Create Order,200,OK,Thread Group 1-13,text,true,,1524,792,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,6758,0,0
+1707754770236,3732,Notification,200,OK,Thread Group 1-16,text,true,,6719,367,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,3707,0,0
+1707754769999,4147,Delete Order,200,OK,Thread Group 1-9,text,true,,540,562,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=71858dd,4146,0,0
+1707754771698,2734,Get User,200,OK,Thread Group 1-8,text,true,,619,358,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,2733,0,0
+1707754773288,1847,Login,200,OK,Thread Group 1-17,text,true,,730,274,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1846,0,0
+1707754768722,6730,Order Detail,200,OK,Thread Group 1-12,text,true,,1566,384,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=516fa3c,6724,0,0
+1707754773379,2274,Reset Password,201,Created,Thread Group 1-7,text,true,,768,279,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2274,0,0
+1707754769874,5949,Pay Order,200,OK,Thread Group 1-11,text,true,,540,552,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,5940,0,0
+1707754773968,2101,Get Flight Classes,200,OK,Thread Group 1-16,text,true,,558,183,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,2100,0,0
+1707754769321,7105,Get Ticket,200,OK,Thread Group 1-15,text,true,,10439,573,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,7066,0,0
+1707754770697,5790,Get Order,200,OK,Thread Group 1-10,text,true,,1514,377,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,5783,0,0
+1707754776070,831,Get Airport,200,OK,Thread Group 1-16,text,true,,768,193,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,826,0,0
+1707754774146,2959,Get User,200,OK,Thread Group 1-9,text,true,,619,358,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,2956,0,0
+1707754773068,4110,Register,201,Created,Thread Group 1-18,text,true,,705,405,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4110,0,70
+1707754774432,2854,Update User,200,OK,Thread Group 1-8,text,true,,619,558,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,2854,0,0
+1707754775135,2386,Notification,200,OK,Thread Group 1-17,text,true,,7020,367,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,2383,0,0
+1707754771252,7636,Create Order,200,OK,Thread Group 1-14,text,true,,1524,792,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,7635,0,0
+1707754773814,6298,Order Detail,200,OK,Thread Group 1-13,text,true,,1566,384,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=258788f,6295,0,0
+1707754777179,3057,Login,200,OK,Thread Group 1-18,text,true,,730,274,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,3056,0,0
+1707754775823,4584,Get Order,200,OK,Thread Group 1-11,text,true,,1514,377,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,4579,0,0
+1707754775452,5196,Pay Order,200,OK,Thread Group 1-12,text,true,,540,552,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,5187,0,0
+1707754777521,3502,Get Flight Classes,200,OK,Thread Group 1-17,text,true,,558,183,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,3441,0,0
+1707754777067,4083,Register,201,Created,Thread Group 1-19,text,true,,705,405,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4083,0,66
+1707754777106,4158,Update User,200,OK,Thread Group 1-9,text,true,,619,558,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4155,0,0
+1707754776487,5196,Delete Order,200,OK,Thread Group 1-10,text,true,,540,562,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=7461754,5192,0,0
+1707754781024,1279,Get Airport,200,OK,Thread Group 1-17,text,true,,768,193,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1279,0,0
+1707754777286,5413,Update Password,200,OK,Thread Group 1-8,text,true,,524,498,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,5412,0,0
+1707754776901,5862,Get Ticket,200,OK,Thread Group 1-16,text,true,,10439,573,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5822,0,0
+1707754776427,6421,Create Order,200,OK,Thread Group 1-15,text,true,,1524,792,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,6415,0,0
+1707754780236,3315,Notification,200,OK,Thread Group 1-18,text,true,,7307,367,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,3291,0,0
+1707754781150,2473,Login,200,OK,Thread Group 1-19,text,true,,730,274,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2469,0,0
+1707754780408,4575,Delete Order,200,OK,Thread Group 1-11,text,true,,540,562,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=c7f8452,4571,0,0
+1707754782699,2488,Forget Password,200,OK,Thread Group 1-8,text,true,,618,252,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2487,0,0
+1707754781067,4232,Register,201,Created,Thread Group 1-20,text,true,,705,405,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4232,0,65
+1707754778888,7030,Order Detail,200,OK,Thread Group 1-14,text,true,,1566,384,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=0293dc8,7024,0,0
+1707754781683,4546,Get User,200,OK,Thread Group 1-10,text,true,,619,358,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4541,0,0
+1707754783551,2683,Get Flight Classes,200,OK,Thread Group 1-18,text,true,,558,183,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,2680,0,0
+1707754781270,5042,Update Password,200,OK,Thread Group 1-9,text,true,,524,498,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,5041,0,0
+1707754780112,6300,Pay Order,200,OK,Thread Group 1-13,text,true,,540,552,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,6298,0,0
+1707754780649,6010,Get Order,200,OK,Thread Group 1-12,text,true,,1514,377,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,6004,0,0
+1707754785300,2045,Login,200,OK,Thread Group 1-20,text,true,,730,274,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2041,0,0
+1707754785187,2373,Reset Password,201,Created,Thread Group 1-8,text,true,,768,279,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2373,0,0
+1707754786235,1740,Get Airport,200,OK,Thread Group 1-18,text,true,,768,193,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1740,0,0
+1707754783624,4591,Notification,200,OK,Thread Group 1-19,text,true,,7601,367,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4564,0,0
+1707754784983,3819,Get User,200,OK,Thread Group 1-11,text,true,,619,358,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,3816,0,0
+1707754782303,6521,Get Ticket,200,OK,Thread Group 1-17,text,true,,10446,573,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6513,0,0
+1707754785069,4178,Register,201,Created,Thread Group 1-21,text,true,,705,405,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4178,0,75
+1707754786312,3136,Forget Password,200,OK,Thread Group 1-9,text,true,,618,252,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,3132,0,0
+1707754788215,1648,Get Flight Classes,200,OK,Thread Group 1-19,text,true,,558,183,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1643,0,0
+1707754786229,3646,Update User,200,OK,Thread Group 1-10,text,true,,619,558,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,3642,0,0
+1707754782849,7538,Order Detail,200,OK,Thread Group 1-15,text,true,,1566,384,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=30c5c67,7531,0,0
+1707754787345,3376,Notification,200,OK,Thread Group 1-20,text,true,,7601,367,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,3352,0,0
+1707754789247,2060,Login,200,OK,Thread Group 1-21,text,true,,730,274,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2056,0,0
+1707754786659,4674,Delete Order,200,OK,Thread Group 1-12,text,true,,540,562,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=516fa3c,4671,0,0
+1707754782763,8955,Create Order,200,OK,Thread Group 1-16,text,true,,1524,792,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8949,0,0
+1707754789863,2063,Get Airport,200,OK,Thread Group 1-19,text,true,,768,193,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,2058,0,0
+1707754788803,3149,Update User,200,OK,Thread Group 1-11,text,true,,619,558,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,3148,0,0
+1707754789448,3080,Reset Password,201,Created,Thread Group 1-9,text,true,,768,279,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,3080,0,0
+1707754785919,6616,Pay Order,200,OK,Thread Group 1-14,text,true,,540,552,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,6613,0,0
+1707754786413,6247,Get Order,200,OK,Thread Group 1-13,text,true,,1514,377,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,6241,0,0
+1707754790721,2224,Get Flight Classes,200,OK,Thread Group 1-20,text,true,,558,183,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,2223,0,0
+1707754789069,4200,Register,201,Created,Thread Group 1-22,text,true,,705,405,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4200,0,66
+1707754789875,4217,Update Password,200,OK,Thread Group 1-10,text,true,,524,498,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,4213,0,0
+1707754791307,3029,Notification,200,OK,Thread Group 1-21,text,true,,7895,367,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,2999,0,0
+1707754791333,3063,Get User,200,OK,Thread Group 1-12,text,true,,619,358,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,3060,0,0
+1707754787976,6455,Get Ticket,200,OK,Thread Group 1-18,text,true,,10439,573,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6415,0,0
+1707754792945,1571,Get Airport,200,OK,Thread Group 1-20,text,true,,768,193,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1566,0,0
+1707754791952,3452,Update Password,200,OK,Thread Group 1-11,text,true,,524,498,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,3452,0,0
+1707754793269,2165,Login,200,OK,Thread Group 1-22,text,true,,730,274,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2164,0,0
+1707754790387,6299,Pay Order,200,OK,Thread Group 1-15,text,true,,540,552,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,6295,0,0
+1707754792660,4226,Delete Order,200,OK,Thread Group 1-13,text,true,,540,562,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=258788f,4224,0,0
+1707754788824,8324,Create Order,200,OK,Thread Group 1-17,text,true,,1524,792,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8324,0,0
+1707754794337,2967,Get Flight Classes,200,OK,Thread Group 1-21,text,true,,558,183,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,2962,0,0
+1707754793067,4328,Register,201,Created,Thread Group 1-23,text,true,,705,405,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4328,0,66
+1707754791718,6105,Order Detail,200,OK,Thread Group 1-16,text,true,,1566,384,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=2d565f9,6099,0,0
+1707754794092,4049,Forget Password,200,OK,Thread Group 1-10,text,true,,618,252,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,4046,0,0
+1707754791926,6260,Get Ticket,200,OK,Thread Group 1-19,text,true,,10439,573,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6220,0,0
+1707754797304,1046,Get Airport,200,OK,Thread Group 1-21,text,true,,768,193,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1044,0,0
+1707754792536,6244,Get Order,200,OK,Thread Group 1-14,text,true,,2002,377,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,6185,0,0
+1707754794396,4454,Update User,200,OK,Thread Group 1-12,text,true,,619,558,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4386,0,0
+1707754795404,3630,Forget Password,200,OK,Thread Group 1-11,text,true,,618,252,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,3625,0,0
+1707754797395,1765,Login,200,OK,Thread Group 1-23,text,true,,730,274,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1764,0,0
+1707754795435,3974,Notification,200,OK,Thread Group 1-22,text,true,,8189,367,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,3757,0,0
+1707754796886,2819,Get User,200,OK,Thread Group 1-13,text,true,,619,358,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,2819,0,0
+1707754798141,2202,Reset Password,201,Created,Thread Group 1-10,text,true,,768,279,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2202,0,0
+1707754797066,3981,Register,201,Created,Thread Group 1-24,text,true,,705,405,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3981,0,64
+1707754799035,2669,Reset Password,201,Created,Thread Group 1-11,text,true,,768,279,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2669,0,0
+1707754796686,5210,Get Order,200,OK,Thread Group 1-15,text,true,,1514,377,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,5206,0,0
+1707754799409,2698,Get Flight Classes,200,OK,Thread Group 1-22,text,true,,558,183,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,2695,0,0
+1707754794516,8092,Get Ticket,200,OK,Thread Group 1-20,text,true,,10439,573,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,8052,0,0
+1707754797148,5752,Order Detail,200,OK,Thread Group 1-17,text,true,,1566,384,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=371f3b5,5752,0,0
+1707754798850,4468,Update Password,200,OK,Thread Group 1-12,text,true,,524,498,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,4465,0,0
+1707754801047,2444,Login,200,OK,Thread Group 1-24,text,true,,730,274,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2439,0,0
+1707754799161,4395,Notification,200,OK,Thread Group 1-23,text,true,,8189,367,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4370,0,0
+1707754798781,4775,Delete Order,200,OK,Thread Group 1-14,text,true,,540,562,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=0293dc8,4771,0,0
+1707754802107,1629,Get Airport,200,OK,Thread Group 1-22,text,true,,768,193,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1627,0,0
+1707754794431,9312,Create Order,200,OK,Thread Group 1-18,text,true,,1524,792,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,9307,0,0
+1707754797823,6020,Pay Order,200,OK,Thread Group 1-16,text,true,,540,552,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,6017,0,0
+1707754799705,4406,Update User,200,OK,Thread Group 1-13,text,true,,619,558,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4404,0,0
+1707754803556,1005,Get Flight Classes,200,OK,Thread Group 1-23,text,true,,558,183,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1005,0,0
+1707754798351,6452,Get Ticket,200,OK,Thread Group 1-21,text,true,,10439,573,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6411,0,0
+1707754803319,1876,Forget Password,200,OK,Thread Group 1-12,text,true,,618,252,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1872,0,0
+1707754801897,3396,Delete Order,200,OK,Thread Group 1-15,text,true,,540,562,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=30c5c67,3392,0,0
+1707754804561,1042,Get Airport,200,OK,Thread Group 1-23,text,true,,768,193,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1038,0,0
+1707754803491,2350,Notification,200,OK,Thread Group 1-24,text,true,,8483,367,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,2326,0,0
+1707754803557,2355,Get User,200,OK,Thread Group 1-14,text,true,,619,358,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,2352,0,0
+1707754801079,5471,Register,201,Created,Thread Group 1-25,text,true,,705,405,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,5471,0,1036
+1707754798186,8472,Create Order,200,OK,Thread Group 1-19,text,true,,1524,792,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8466,0,0
+1707754804111,3452,Update Password,200,OK,Thread Group 1-13,text,true,,524,498,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,3452,0,0
+1707754805195,2676,Reset Password,201,Created,Thread Group 1-12,text,true,,768,279,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2676,0,0
+1707754805841,2552,Get Flight Classes,200,OK,Thread Group 1-24,text,true,,558,183,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,2548,0,0
+1707754802901,5598,Pay Order,200,OK,Thread Group 1-17,text,true,,540,552,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,5597,0,0
+1707754803843,4879,Get Order,200,OK,Thread Group 1-16,text,true,,1026,377,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,4877,0,0
+1707754805067,4238,Register,201,Created,Thread Group 1-26,text,true,,705,405,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4238,0,64
+1707754803743,5596,Order Detail,200,OK,Thread Group 1-18,text,true,,1566,384,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=a83e7a3,5591,0,0
+1707754808393,1158,Get Airport,200,OK,Thread Group 1-24,text,true,,768,193,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1153,0,0
+1707754806550,3090,Login,200,OK,Thread Group 1-25,text,true,,730,274,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,3087,0,0
+1707754803736,6009,Get Ticket,200,OK,Thread Group 1-22,text,true,,10439,573,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5970,0,0
+1707754805293,4644,Get User,200,OK,Thread Group 1-15,text,true,,619,358,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4639,0,0
+1707754802608,7339,Create Order,200,OK,Thread Group 1-20,text,true,,1524,792,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,7334,0,0
+1707754805913,4350,Update User,200,OK,Thread Group 1-14,text,true,,619,558,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4347,0,0
+1707754807564,3122,Forget Password,200,OK,Thread Group 1-13,text,true,,618,252,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,3113,0,0
+1707754809305,1584,Login,200,OK,Thread Group 1-26,text,true,,730,274,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1580,0,0
+1707754808723,3669,Delete Order,200,OK,Thread Group 1-16,text,true,,540,562,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=2d565f9,3665,0,0
+1707754809067,3883,Register,201,Created,Thread Group 1-27,text,true,,705,405,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3883,0,70
+1707754805603,7517,Get Ticket,200,OK,Thread Group 1-23,text,true,,10439,573,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,7478,0,0
+1707754809640,3974,Notification,200,OK,Thread Group 1-25,text,true,,8777,367,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,3939,0,0
+1707754806658,6998,Order Detail,200,OK,Thread Group 1-19,text,true,,1566,384,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=c9492e3,6994,0,0
+1707754804803,8898,Create Order,200,OK,Thread Group 1-21,text,true,,1524,792,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8897,0,0
+1707754808499,5279,Get Order,200,OK,Thread Group 1-17,text,true,,1514,377,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,5279,0,0
+1707754810686,3094,Reset Password,201,Created,Thread Group 1-13,text,true,,768,279,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,3094,0,0
+1707754809937,4260,Update User,200,OK,Thread Group 1-15,text,true,,619,558,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4256,0,0
+1707754812950,1756,Login,200,OK,Thread Group 1-27,text,true,,730,274,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1753,0,0
+1707754810264,4446,Update Password,200,OK,Thread Group 1-14,text,true,,524,498,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,4443,0,0
+1707754813614,1508,Get Flight Classes,200,OK,Thread Group 1-25,text,true,,558,183,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1504,0,0
+1707754810890,4388,Notification,200,OK,Thread Group 1-26,text,true,,8777,367,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4352,0,0
+1707754809551,5946,Get Ticket,200,OK,Thread Group 1-24,text,true,,10439,573,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5907,0,0
+1707754812392,3470,Get User,200,OK,Thread Group 1-16,text,true,,619,358,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,3469,0,0
+1707754809339,6772,Pay Order,200,OK,Thread Group 1-18,text,true,,540,552,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,6771,0,0
+1707754815122,1198,Get Airport,200,OK,Thread Group 1-25,text,true,,768,193,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1194,0,0
+1707754815278,1412,Get Flight Classes,200,OK,Thread Group 1-26,text,true,,558,183,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1412,0,0
+1707754814711,2283,Forget Password,200,OK,Thread Group 1-14,text,true,,618,252,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2279,0,0
+1707754813067,4130,Register,201,Created,Thread Group 1-28,text,true,,705,405,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4130,0,79
+1707754809948,7414,Order Detail,200,OK,Thread Group 1-20,text,true,,1566,384,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=43d7cd3,7407,0,0
+1707754814706,3341,Notification,200,OK,Thread Group 1-27,text,true,,9071,367,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,3329,0,0
+1707754813779,4369,Delete Order,200,OK,Thread Group 1-17,text,true,,540,562,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=371f3b5,4369,0,0
+1707754814197,4022,Update Password,200,OK,Thread Group 1-15,text,true,,524,498,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,4019,0,0
+1707754816691,1670,Get Airport,200,OK,Thread Group 1-26,text,true,,768,193,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1665,0,0
+1707754809745,9153,Create Order,200,OK,Thread Group 1-22,text,true,,1524,792,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,9147,0,0
+1707754813657,5740,Pay Order,200,OK,Thread Group 1-19,text,true,,540,552,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,5736,0,0
+1707754816994,2427,Reset Password,201,Created,Thread Group 1-14,text,true,,768,279,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2427,0,0
+1707754817198,2617,Login,200,OK,Thread Group 1-28,text,true,,730,274,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2617,0,0
+1707754815863,4181,Update User,200,OK,Thread Group 1-16,text,true,,619,558,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4177,0,0
+1707754813701,6353,Order Detail,200,OK,Thread Group 1-21,text,true,,1566,384,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=2d1bb6c,6347,0,0
+1707754818047,2184,Get Flight Classes,200,OK,Thread Group 1-27,text,true,,558,183,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,2183,0,0
+1707754813121,7607,Create Order,200,OK,Thread Group 1-23,text,true,,1524,792,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,7602,0,0
+1707754817066,4148,Register,201,Created,Thread Group 1-29,text,true,,705,405,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4148,0,65
+1707754818220,3282,Forget Password,200,OK,Thread Group 1-15,text,true,,618,252,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,3278,0,0
+1707754820232,1612,Get Airport,200,OK,Thread Group 1-27,text,true,,768,193,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1608,0,0
+1707754818149,4029,Get User,200,OK,Thread Group 1-17,text,true,,619,358,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4028,0,0
+1707754816112,6806,Get Order,200,OK,Thread Group 1-18,text,true,,1514,377,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,6801,0,0
+1707754816320,6938,Get Ticket,200,OK,Thread Group 1-25,text,true,,10439,573,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6899,0,0
+1707754815498,8060,Create Order,200,OK,Thread Group 1-24,text,true,,1524,792,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8054,0,0
+1707754821215,2627,Login,200,OK,Thread Group 1-29,text,true,,730,274,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2625,0,0
+1707754819815,4069,Notification,200,OK,Thread Group 1-28,text,true,,9372,367,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4026,0,0
+1707754817362,7024,Pay Order,200,OK,Thread Group 1-20,text,true,,540,552,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,7020,0,0
+1707754820045,4524,Update Password,200,OK,Thread Group 1-16,text,true,,524,498,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,4524,0,0
+1707754821502,3562,Reset Password,201,Created,Thread Group 1-15,text,true,,768,279,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,3562,0,62
+1707754821067,4254,Register,201,Created,Thread Group 1-30,text,true,,705,405,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4254,0,68
+1707754818361,7104,Get Ticket,200,OK,Thread Group 1-26,text,true,,10439,573,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,7065,0,0
+1707754819397,6107,Get Order,200,OK,Thread Group 1-19,text,true,,2002,377,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,6106,0,0
+1707754818899,6695,Order Detail,200,OK,Thread Group 1-22,text,true,,1566,384,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=6238026,6691,0,0
+1707754823884,2121,Get Flight Classes,200,OK,Thread Group 1-28,text,true,,558,183,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,2118,0,0
+1707754822178,4355,Update User,200,OK,Thread Group 1-17,text,true,,619,558,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4354,0,0
+1707754825322,1604,Login,200,OK,Thread Group 1-30,text,true,,730,274,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1603,0,0
+1707754824569,2728,Forget Password,200,OK,Thread Group 1-16,text,true,,618,252,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2723,0,0
+1707754820054,7317,Pay Order,200,OK,Thread Group 1-21,text,true,,540,552,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,7314,0,0
+1707754822919,5068,Delete Order,200,OK,Thread Group 1-18,text,true,,540,562,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=a83e7a3,5065,0,0
+1707754823843,4193,Notification,200,OK,Thread Group 1-29,text,true,,9953,367,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4154,0,0
+1707754826006,2195,Get Airport,200,OK,Thread Group 1-28,text,true,,768,193,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,2184,0,0
+1707754820729,7581,Order Detail,200,OK,Thread Group 1-23,text,true,,1566,384,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=26a9d9d,7578,0,0
+1707754825067,3825,Register,201,Created,Thread Group 1-31,text,true,,705,405,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,3825,0,64
+1707754821844,7727,Get Ticket,200,OK,Thread Group 1-27,text,true,,10439,573,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,7713,0,0
+1707754825504,4264,Delete Order,200,OK,Thread Group 1-19,text,true,,540,562,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=c9492e3,4260,0,0
+1707754827297,2944,Reset Password,201,Created,Thread Group 1-16,text,true,,768,279,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2944,0,63
+1707754828036,2351,Get Flight Classes,200,OK,Thread Group 1-29,text,true,,558,183,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,2346,0,0
+1707754824387,6322,Get Order,200,OK,Thread Group 1-20,text,true,,2002,377,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,6321,0,0
+1707754823558,7475,Order Detail,200,OK,Thread Group 1-24,text,true,,1566,384,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=769e566,7469,0,0
+1707754826927,4398,Notification,200,OK,Thread Group 1-30,text,true,,9953,367,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4359,0,0
+1707754826533,4859,Update Password,200,OK,Thread Group 1-17,text,true,,524,498,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,4859,0,0
+1707754828892,2732,Login,200,OK,Thread Group 1-31,text,true,,730,274,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2728,0,0
+1707754823258,8876,Create Order,200,OK,Thread Group 1-25,text,true,,1524,792,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8870,0,0
+1707754830387,1859,Get Airport,200,OK,Thread Group 1-29,text,true,,768,193,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1852,0,0
+1707754827987,4325,Get User,200,OK,Thread Group 1-18,text,true,,619,358,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4321,0,0
+1707754825595,6825,Pay Order,200,OK,Thread Group 1-22,text,true,,540,552,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,6820,0,0
+1707754831325,1515,Get Flight Classes,200,OK,Thread Group 1-30,text,true,,558,183,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1509,0,0
+1707754825466,7719,Create Order,200,OK,Thread Group 1-26,text,true,,1524,792,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,7715,0,0
+1707754829768,4040,Get User,200,OK,Thread Group 1-19,text,true,,619,358,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4035,0,0
+1707754829065,4964,Register,201,Created,Thread Group 1-32,text,true,,705,405,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4964,0,67
+1707754831392,2795,Forget Password,200,OK,Thread Group 1-17,text,true,,618,252,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2791,0,64
+1707754827371,7340,Get Order,200,OK,Thread Group 1-21,text,true,,2002,377,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,7339,0,0
+1707754832840,1972,Get Airport,200,OK,Thread Group 1-30,text,true,,768,193,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1972,0,0
+1707754831624,3745,Notification,200,OK,Thread Group 1-31,text,true,,10247,367,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,3706,0,0
+1707754828204,7234,Get Ticket,200,OK,Thread Group 1-28,text,true,,10439,573,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,7195,0,0
+1707754830710,4774,Delete Order,200,OK,Thread Group 1-20,text,true,,540,562,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=43d7cd3,4771,0,0
+1707754828310,7373,Pay Order,200,OK,Thread Group 1-23,text,true,,540,552,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,7369,0,0
+1707754832312,3993,Update User,200,OK,Thread Group 1-18,text,true,,619,558,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,3989,0,0
+1707754834029,2632,Login,200,OK,Thread Group 1-32,text,true,,730,274,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2628,0,0
+1707754834187,2941,Reset Password,201,Created,Thread Group 1-17,text,true,,768,279,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2941,0,0
+1707754835369,2175,Get Flight Classes,200,OK,Thread Group 1-31,text,true,,558,183,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,2170,0,0
+1707754833064,4754,Register,201,Created,Thread Group 1-33,text,true,,705,405,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4754,0,65
+1707754829572,8267,Create Order,200,OK,Thread Group 1-27,text,true,,1524,792,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8266,0,0
+1707754831033,6833,Pay Order,200,OK,Thread Group 1-24,text,true,,540,552,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,6833,0,0
+1707754833808,4648,Update User,200,OK,Thread Group 1-19,text,true,,619,558,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4644,0,0
+1707754832246,6636,Get Ticket,200,OK,Thread Group 1-29,text,true,,10439,573,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6605,0,0
+1707754837544,1517,Get Airport,200,OK,Thread Group 1-31,text,true,,768,193,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1513,0,0
+1707754832135,7023,Order Detail,200,OK,Thread Group 1-25,text,true,,1566,384,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=e216287,7020,0,0
+1707754832420,7412,Get Order,200,OK,Thread Group 1-22,text,true,,2490,377,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,7410,0,0
+1707754837818,2163,Login,200,OK,Thread Group 1-33,text,true,,730,274,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2158,0,0
+1707754834712,5324,Delete Order,200,OK,Thread Group 1-21,text,true,,540,562,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=2d1bb6c,5322,0,0
+1707754835485,4647,Get User,200,OK,Thread Group 1-20,text,true,,619,358,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4645,0,0
+1707754836661,3991,Notification,200,OK,Thread Group 1-32,text,true,,10835,367,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,3947,0,0
+1707754836305,4536,Update Password,200,OK,Thread Group 1-18,text,true,,524,498,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,4533,0,67
+1707754833186,8356,Order Detail,200,OK,Thread Group 1-26,text,true,,1566,384,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=b4a6680,8351,0,0
+1707754837066,4714,Register,201,Created,Thread Group 1-34,text,true,,705,405,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4714,0,65
+1707754834813,7443,Get Ticket,200,OK,Thread Group 1-30,text,true,,10439,573,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,7429,0,0
+1707754835684,7219,Get Order,200,OK,Thread Group 1-23,text,true,,2002,377,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,7217,0,0
+1707754840652,2376,Get Flight Classes,200,OK,Thread Group 1-32,text,true,,558,183,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,2372,0,0
+1707754838456,4799,Update Password,200,OK,Thread Group 1-19,text,true,,524,498,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,4795,0,62
+1707754835438,8605,Create Order,200,OK,Thread Group 1-28,text,true,,1524,792,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8599,0,0
+1707754840841,3516,Forget Password,200,OK,Thread Group 1-18,text,true,,618,252,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,3514,0,0
+1707754837866,6710,Get Order,200,OK,Thread Group 1-24,text,true,,2002,377,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,6709,0,0
+1707754837840,6757,Order Detail,200,OK,Thread Group 1-27,text,true,,1566,384,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=d7fbc38,6754,0,0
+1707754840037,5181,Get User,200,OK,Thread Group 1-21,text,true,,619,358,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,5177,0,0
+1707754839981,5256,Notification,200,OK,Thread Group 1-33,text,true,,10835,367,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,5216,0,0
+1707754841780,3592,Login,200,OK,Thread Group 1-34,text,true,,730,274,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,3587,0,0
+1707754843028,2785,Get Airport,200,OK,Thread Group 1-32,text,true,,768,193,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,2784,0,0
+1707754839833,5986,Delete Order,200,OK,Thread Group 1-22,text,true,,540,562,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=6238026,5984,0,0
+1707754839061,6760,Get Ticket,200,OK,Thread Group 1-31,text,true,,10439,573,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6726,0,0
+1707754840132,5711,Update User,200,OK,Thread Group 1-20,text,true,,619,558,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,5707,0,0
+1707754841066,5172,Register,201,Created,Thread Group 1-35,text,true,,705,405,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,5172,0,66
+1707754839158,7390,Pay Order,200,OK,Thread Group 1-25,text,true,,540,552,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,7389,0,0
+1707754845237,1435,Get Flight Classes,200,OK,Thread Group 1-33,text,true,,558,183,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1431,0,0
+1707754843255,3770,Forget Password,200,OK,Thread Group 1-19,text,true,,618,252,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,3766,0,0
+1707754844358,2675,Reset Password,201,Created,Thread Group 1-18,text,true,,768,279,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2675,0,0
+1707754838883,8678,Create Order,200,OK,Thread Group 1-29,text,true,,1524,792,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8673,0,0
+1707754842903,5516,Delete Order,200,OK,Thread Group 1-23,text,true,,540,562,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=26a9d9d,5516,0,0
+1707754846238,2555,Login,200,OK,Thread Group 1-35,text,true,,730,274,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2550,0,0
+1707754844577,4436,Delete Order,200,OK,Thread Group 1-24,text,true,,540,562,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=769e566,4432,0,0
+1707754846672,2550,Get Airport,200,OK,Thread Group 1-33,text,true,,768,193,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,2546,0,0
+1707754845066,4168,Register,201,Created,Thread Group 1-36,text,true,,705,405,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4168,0,69
+1707754841542,7807,Pay Order,200,OK,Thread Group 1-26,text,true,,540,552,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,7804,0,0
+1707754845218,4614,Update User,200,OK,Thread Group 1-21,text,true,,619,558,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4611,0,61
+1707754845372,4520,Notification,200,OK,Thread Group 1-34,text,true,,11423,367,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4477,0,0
+1707754845819,4149,Get User,200,OK,Thread Group 1-22,text,true,,619,358,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4149,0,0
+1707754847026,3426,Reset Password,201,Created,Thread Group 1-19,text,true,,768,279,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,3426,0,0
+1707754845843,5143,Update Password,200,OK,Thread Group 1-20,text,true,,524,498,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,5142,0,62
+1707754844043,7197,Order Detail,200,OK,Thread Group 1-28,text,true,,1566,384,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=d357e9c,7191,0,0
+1707754844597,7368,Pay Order,200,OK,Thread Group 1-27,text,true,,540,552,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,7361,0,0
+1707754842257,9766,Create Order,200,OK,Thread Group 1-30,text,true,,1524,792,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,9759,0,0
+1707754849235,2965,Login,200,OK,Thread Group 1-36,text,true,,730,274,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2964,0,0
+1707754845813,6428,Get Ticket,200,OK,Thread Group 1-32,text,true,,10439,573,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6391,0,0
+1707754849893,2721,Get Flight Classes,200,OK,Thread Group 1-34,text,true,,558,183,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,2716,0,0
+1707754848420,4628,Get User,200,OK,Thread Group 1-23,text,true,,619,358,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4624,0,0
+1707754848793,4481,Notification,200,OK,Thread Group 1-35,text,true,,11717,367,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4444,0,0
+1707754849013,4662,Get User,200,OK,Thread Group 1-24,text,true,,619,358,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4658,0,0
+1707754849065,4925,Register,201,Created,Thread Group 1-37,text,true,,705,405,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4925,0,65
+1707754846549,7448,Get Order,200,OK,Thread Group 1-25,text,true,,2002,377,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,7447,0,0
+1707754850986,3244,Forget Password,200,OK,Thread Group 1-20,text,true,,618,252,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,3242,0,0
+1707754852614,2065,Get Airport,200,OK,Thread Group 1-34,text,true,,768,193,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,2064,0,0
+1707754849968,4883,Update User,200,OK,Thread Group 1-22,text,true,,619,558,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4882,0,62
+1707754849833,5171,Update Password,200,OK,Thread Group 1-21,text,true,,524,498,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,5170,0,0
+1707754845821,9217,Create Order,200,OK,Thread Group 1-31,text,true,,1524,792,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,9211,0,0
+1707754853274,1996,Get Flight Classes,200,OK,Thread Group 1-35,text,true,,558,183,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1992,0,0
+1707754847562,8358,Order Detail,200,OK,Thread Group 1-29,text,true,,1566,384,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=cf04b72,8352,0,0
+1707754853991,2355,Login,200,OK,Thread Group 1-37,text,true,,730,274,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2351,0,0
+1707754849222,7243,Get Ticket,200,OK,Thread Group 1-33,text,true,,10439,573,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,7204,0,0
+1707754852200,4753,Notification,200,OK,Thread Group 1-36,text,true,,11724,367,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4744,0,0
+1707754849349,7957,Get Order,200,OK,Thread Group 1-26,text,true,,2002,377,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,7956,0,0
+1707754854230,3338,Reset Password,201,Created,Thread Group 1-20,text,true,,768,279,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,3338,0,0
+1707754853048,4525,Update User,200,OK,Thread Group 1-23,text,true,,619,558,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4520,0,0
+1707754853065,4609,Register,201,Created,Thread Group 1-38,text,true,,705,405,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4609,0,65
+1707754855270,3023,Get Airport,200,OK,Thread Group 1-35,text,true,,768,193,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,3019,0,0
+1707754851966,6404,Get Order,200,OK,Thread Group 1-27,text,true,,2002,377,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,6402,0,0
+1707754851241,7200,Pay Order,200,OK,Thread Group 1-28,text,true,,540,552,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,7196,0,0
+1707754853676,4934,Update User,200,OK,Thread Group 1-24,text,true,,619,558,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4928,0,0
+1707754852023,6995,Order Detail,200,OK,Thread Group 1-30,text,true,,1566,384,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=6461174,6984,0,0
+1707754855005,4013,Forget Password,200,OK,Thread Group 1-21,text,true,,618,252,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,4013,0,0
+1707754856953,2164,Get Flight Classes,200,OK,Thread Group 1-36,text,true,,558,183,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,2163,0,0
+1707754853998,5822,Delete Order,200,OK,Thread Group 1-25,text,true,,540,562,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=e216287,5821,0,0
+1707754857674,2270,Login,200,OK,Thread Group 1-38,text,true,,730,274,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2269,0,0
+1707754854851,5186,Update Password,200,OK,Thread Group 1-22,text,true,,524,498,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,5186,0,0
+1707754856346,4700,Notification,200,OK,Thread Group 1-37,text,true,,12011,367,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4647,0,0
+1707754852241,9366,Create Order,200,OK,Thread Group 1-32,text,true,,1524,792,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,9364,0,0
+1707754859018,2663,Reset Password,201,Created,Thread Group 1-21,text,true,,772,279,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2663,0,0
+1707754859117,2695,Get Airport,200,OK,Thread Group 1-36,text,true,,768,193,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,2695,0,0
+1707754857078,4771,Register,201,Created,Thread Group 1-39,text,true,,705,405,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4771,0,66
+1707754854680,7856,Get Ticket,200,OK,Thread Group 1-34,text,true,,10439,573,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,7816,0,0
+1707754857573,5126,Update Password,200,OK,Thread Group 1-23,text,true,,524,498,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,5124,0,62
+1707754855038,7806,Order Detail,200,OK,Thread Group 1-31,text,true,,1566,384,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=1d82f77,7800,0,0
+1707754857306,5543,Delete Order,200,OK,Thread Group 1-26,text,true,,540,562,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=b4a6680,5539,0,0
+1707754861046,2210,Get Flight Classes,200,OK,Thread Group 1-37,text,true,,558,183,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,2206,0,0
+1707754858370,4897,Delete Order,200,OK,Thread Group 1-27,text,true,,540,562,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=d7fbc38,4897,0,0
+1707754855921,7449,Pay Order,200,OK,Thread Group 1-29,text,true,,540,552,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,7449,0,0
+1707754858610,5393,Update Password,200,OK,Thread Group 1-24,text,true,,524,498,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,5393,0,62
+1707754860037,4090,Forget Password,200,OK,Thread Group 1-22,text,true,,618,252,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,4089,0,0
+1707754859820,4540,Get User,200,OK,Thread Group 1-25,text,true,,619,358,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4534,0,0
+1707754858294,6235,Get Ticket,200,OK,Thread Group 1-35,text,true,,10439,573,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6195,0,0
+1707754861849,2756,Login,200,OK,Thread Group 1-39,text,true,,730,274,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2756,0,0
+1707754859944,4819,Notification,200,OK,Thread Group 1-38,text,true,,12312,367,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4812,0,0
+1707754863256,1728,Get Airport,200,OK,Thread Group 1-37,text,true,,768,193,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1722,0,0
+1707754858441,7172,Get Order,200,OK,Thread Group 1-28,text,true,,1514,377,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,7166,0,0
+1707754856466,9185,Create Order,200,OK,Thread Group 1-33,text,true,,1524,792,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,9178,0,0
+1707754862699,3023,Forget Password,200,OK,Thread Group 1-23,text,true,,618,252,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,3023,0,0
+1707754861065,4791,Register,201,Created,Thread Group 1-40,text,true,,705,405,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4791,0,78
+1707754864763,1696,Get Flight Classes,200,OK,Thread Group 1-38,text,true,,558,183,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1695,0,0
+1707754864127,2538,Reset Password,201,Created,Thread Group 1-22,text,true,,768,279,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2538,0,0
+1707754864003,2698,Forget Password,200,OK,Thread Group 1-24,text,true,,618,252,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2633,0,0
+1707754862849,4019,Get User,200,OK,Thread Group 1-26,text,true,,619,358,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4019,0,0
+1707754859018,7965,Pay Order,200,OK,Thread Group 1-30,text,true,,540,552,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,7965,0,0
+1707754863268,4023,Get User,200,OK,Thread Group 1-27,text,true,,619,358,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4019,0,0
+1707754864361,3978,Update User,200,OK,Thread Group 1-25,text,true,,619,558,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,3976,0,82
+1707754865722,2895,Reset Password,201,Created,Thread Group 1-23,text,true,,768,279,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2895,0,0
+1707754861813,6814,Get Ticket,200,OK,Thread Group 1-36,text,true,,10446,573,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6756,0,0
+1707754861607,7297,Order Detail,200,OK,Thread Group 1-32,text,true,,1566,384,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=96126d1,7293,0,0
+1707754866469,2636,Get Airport,200,OK,Thread Group 1-38,text,true,,768,193,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,2636,0,0
+1707754864605,4637,Notification,200,OK,Thread Group 1-39,text,true,,12614,367,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4630,0,0
+1707754865861,3387,Login,200,OK,Thread Group 1-40,text,true,,730,274,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,3382,0,0
+1707754865068,4569,Register,201,Created,Thread Group 1-41,text,true,,705,405,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4569,0,72
+1707754862844,6837,Pay Order,200,OK,Thread Group 1-31,text,true,,540,552,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,6806,0,0
+1707754863370,6816,Get Order,200,OK,Thread Group 1-29,text,true,,2002,377,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,6815,0,0
+1707754866702,3635,Reset Password,201,Created,Thread Group 1-24,text,true,,768,279,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,3635,0,0
+1707754869242,1647,Get Flight Classes,200,OK,Thread Group 1-39,text,true,,558,183,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1647,0,0
+1707754862536,8526,Create Order,200,OK,Thread Group 1-34,text,true,,1524,792,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8524,0,0
+1707754865613,5478,Delete Order,200,OK,Thread Group 1-28,text,true,,540,562,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=d357e9c,5475,0,0
+1707754866904,4607,Update User,200,OK,Thread Group 1-26,text,true,,619,558,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4607,0,65
+1707754864984,6686,Get Ticket,200,OK,Thread Group 1-37,text,true,,10439,573,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6645,0,0
+1707754869638,2348,Login,200,OK,Thread Group 1-41,text,true,,730,274,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2344,0,0
+1707754867292,4834,Update User,200,OK,Thread Group 1-27,text,true,,619,558,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4833,0,0
+1707754868339,4180,Update Password,200,OK,Thread Group 1-25,text,true,,524,498,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,4179,0,0
+1707754870889,1835,Get Airport,200,OK,Thread Group 1-39,text,true,,768,193,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1835,0,0
+1707754869249,3558,Notification,200,OK,Thread Group 1-40,text,true,,12893,367,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,3507,0,0
+1707754869068,4268,Register,201,Created,Thread Group 1-42,text,true,,705,405,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4268,0,67
+1707754865651,7722,Order Detail,200,OK,Thread Group 1-33,text,true,,1566,384,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=4c63442,7715,0,0
+1707754864530,9434,Create Order,200,OK,Thread Group 1-35,text,true,,1524,792,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,9428,0,0
+1707754866983,7248,Get Order,200,OK,Thread Group 1-30,text,true,,2002,377,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,7247,0,0
+1707754872807,1779,Get Flight Classes,200,OK,Thread Group 1-40,text,true,,558,183,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1775,0,0
+1707754870186,4632,Delete Order,200,OK,Thread Group 1-29,text,true,,540,562,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=cf04b72,4630,0,0
+1707754871092,4114,Get User,200,OK,Thread Group 1-28,text,true,,619,358,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4110,0,0
+1707754869106,6246,Get Ticket,200,OK,Thread Group 1-38,text,true,,10446,573,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6239,0,0
+1707754872519,2902,Forget Password,200,OK,Thread Group 1-25,text,true,,618,252,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2901,0,0
+1707754868912,6654,Pay Order,200,OK,Thread Group 1-32,text,true,,540,552,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,6649,0,0
+1707754873337,2787,Login,200,OK,Thread Group 1-42,text,true,,730,274,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2786,0,0
+1707754871512,4856,Update Password,200,OK,Thread Group 1-26,text,true,,524,498,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,4856,0,0
+1707754871986,4533,Notification,200,OK,Thread Group 1-41,text,true,,13187,367,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4478,0,0
+1707754869681,6979,Get Order,200,OK,Thread Group 1-31,text,true,,2490,377,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,6975,0,0
+1707754874587,2280,Get Airport,200,OK,Thread Group 1-40,text,true,,768,193,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,2276,0,0
+1707754872126,5016,Update Password,200,OK,Thread Group 1-27,text,true,,524,498,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,5014,0,62
+1707754868629,8777,Create Order,200,OK,Thread Group 1-36,text,true,,1524,792,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8776,0,0
+1707754873072,4740,Register,201,Created,Thread Group 1-43,text,true,,705,405,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4740,0,67
+1707754871062,6897,Order Detail,200,OK,Thread Group 1-34,text,true,,1566,384,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=3bca028,6891,0,0
+1707754876519,1506,Get Flight Classes,200,OK,Thread Group 1-41,text,true,,558,183,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1502,0,0
+1707754875421,2960,Reset Password,201,Created,Thread Group 1-25,text,true,,768,279,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2960,0,0
+1707754876368,2287,Forget Password,200,OK,Thread Group 1-26,text,true,,618,252,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2287,0,0
+1707754874818,4176,Get User,200,OK,Thread Group 1-29,text,true,,619,358,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4172,0,0
+1707754875206,3796,Update User,200,OK,Thread Group 1-28,text,true,,619,558,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,3796,0,62
+1707754872725,6483,Get Ticket,200,OK,Thread Group 1-39,text,true,,10446,573,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6476,0,0
+1707754874231,5030,Delete Order,200,OK,Thread Group 1-30,text,true,,540,562,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=6461174,5029,0,0
+1707754877142,3100,Forget Password,200,OK,Thread Group 1-27,text,true,,618,252,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,3096,0,0
+1707754876124,4179,Notification,200,OK,Thread Group 1-42,text,true,,13201,367,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4174,0,0
+1707754878025,2891,Get Airport,200,OK,Thread Group 1-41,text,true,,768,193,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,2887,0,0
+1707754871670,9298,Create Order,200,OK,Thread Group 1-37,text,true,,1524,792,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,9293,0,0
+1707754873373,7635,Pay Order,200,OK,Thread Group 1-33,text,true,,540,552,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,7631,0,0
+1707754877812,3352,Login,200,OK,Thread Group 1-43,text,true,,730,274,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,3349,0,0
+1707754873965,7472,Order Detail,200,OK,Thread Group 1-35,text,true,,1566,384,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=f89ef78,7471,0,0
+1707754877075,4921,Register,201,Created,Thread Group 1-44,text,true,,705,405,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4921,0,65
+1707754878656,3528,Reset Password,201,Created,Thread Group 1-26,text,true,,768,279,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,3528,0,0
+1707754880303,1963,Get Flight Classes,200,OK,Thread Group 1-42,text,true,,558,183,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1962,0,0
+1707754876661,5700,Delete Order,200,OK,Thread Group 1-31,text,true,,540,562,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=1d82f77,5696,0,0
+1707754875566,6960,Get Order,200,OK,Thread Group 1-32,text,true,,2002,377,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,6959,0,0
+1707754880243,2805,Reset Password,201,Created,Thread Group 1-27,text,true,,768,279,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2805,0,0
+1707754876868,6360,Get Ticket,200,OK,Thread Group 1-40,text,true,,10439,573,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6328,0,0
+1707754878994,4678,Update User,200,OK,Thread Group 1-29,text,true,,619,558,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4678,0,63
+1707754879002,4777,Update Password,200,OK,Thread Group 1-28,text,true,,524,498,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,4776,0,0
+1707754882267,1720,Get Airport,200,OK,Thread Group 1-42,text,true,,768,193,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1720,0,0
+1707754875352,8713,Create Order,200,OK,Thread Group 1-38,text,true,,1524,792,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8712,0,0
+1707754879262,4875,Get User,200,OK,Thread Group 1-30,text,true,,619,358,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4873,0,0
+1707754881996,2596,Login,200,OK,Thread Group 1-44,text,true,,730,274,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2592,0,0
+1707754881165,4104,Notification,200,OK,Thread Group 1-43,text,true,,13481,367,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4053,0,0
+1707754877407,7895,Order Detail,200,OK,Thread Group 1-36,text,true,,1566,384,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=4eed8b2,7895,0,0
+1707754881076,4443,Register,201,Created,Thread Group 1-45,text,true,,705,405,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4443,0,65
+1707754877960,7779,Pay Order,200,OK,Thread Group 1-34,text,true,,540,552,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,7776,0,0
+1707754882361,3999,Get User,200,OK,Thread Group 1-31,text,true,,619,358,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,3995,0,0
+1707754883779,2975,Forget Password,200,OK,Thread Group 1-28,text,true,,618,252,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2974,0,0
+1707754880917,6499,Get Ticket,200,OK,Thread Group 1-41,text,true,,10439,573,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6460,0,0
+1707754881008,6450,Get Order,200,OK,Thread Group 1-33,text,true,,2002,377,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,6449,0,0
+1707754885270,2517,Get Flight Classes,200,OK,Thread Group 1-43,text,true,,558,183,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,2514,0,0
+1707754880968,6840,Order Detail,200,OK,Thread Group 1-37,text,true,,1566,384,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=f5bfb10,6834,0,0
+1707754882527,5287,Delete Order,200,OK,Thread Group 1-32,text,true,,540,562,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=96126d1,5283,0,0
+1707754879208,9144,Create Order,200,OK,Thread Group 1-39,text,true,,1524,792,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,9143,0,0
+1707754885519,3212,Login,200,OK,Thread Group 1-45,text,true,,730,274,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,3207,0,0
+1707754883672,5127,Update Password,200,OK,Thread Group 1-29,text,true,,524,498,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,5126,0,0
+1707754884137,4727,Update User,200,OK,Thread Group 1-30,text,true,,619,558,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4723,0,62
+1707754881437,7498,Pay Order,200,OK,Thread Group 1-35,text,true,,540,552,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,7495,0,0
+1707754884592,4818,Notification,200,OK,Thread Group 1-44,text,true,,14069,367,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4765,0,0
+1707754887788,1633,Get Airport,200,OK,Thread Group 1-43,text,true,,768,193,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1628,0,0
+1707754885079,4787,Register,201,Created,Thread Group 1-46,text,true,,705,405,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4787,0,102
+1707754886754,3230,Reset Password,201,Created,Thread Group 1-28,text,true,,768,279,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,3230,0,0
+1707754886361,4031,Update User,200,OK,Thread Group 1-31,text,true,,619,558,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4028,0,62
+1707754883988,6718,Get Ticket,200,OK,Thread Group 1-42,text,true,,10446,573,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6710,0,0
+1707754889410,1714,Get Flight Classes,200,OK,Thread Group 1-44,text,true,,558,183,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1710,0,0
+1707754888799,2634,Forget Password,200,OK,Thread Group 1-29,text,true,,618,252,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2633,0,0
+1707754884066,7539,Order Detail,200,OK,Thread Group 1-38,text,true,,1566,384,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=ea240f8,7538,0,0
+1707754887459,4498,Delete Order,200,OK,Thread Group 1-33,text,true,,540,562,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=4c63442,4498,0,0
+1707754883229,8928,Create Order,200,OK,Thread Group 1-40,text,true,,1524,792,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8923,0,0
+1707754887814,4419,Get User,200,OK,Thread Group 1-32,text,true,,619,358,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4416,0,0
+1707754885303,7351,Pay Order,200,OK,Thread Group 1-36,text,true,,540,552,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,7351,0,0
+1707754885739,7000,Get Order,200,OK,Thread Group 1-34,text,true,,2002,377,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,6999,0,0
+1707754888731,4180,Notification,200,OK,Thread Group 1-45,text,true,,14363,367,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4127,0,0
+1707754889866,3209,Login,200,OK,Thread Group 1-46,text,true,,730,274,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,3209,0,0
+1707754891124,2230,Get Airport,200,OK,Thread Group 1-44,text,true,,768,193,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,2226,0,0
+1707754888865,4805,Update Password,200,OK,Thread Group 1-30,text,true,,524,498,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,4801,0,0
+1707754889065,4613,Register,201,Created,Thread Group 1-47,text,true,,705,405,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4613,0,69
+1707754891433,3146,Reset Password,201,Created,Thread Group 1-29,text,true,,768,279,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,3146,0,0
+1707754892912,2001,Get Flight Classes,200,OK,Thread Group 1-45,text,true,,558,183,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1994,0,0
+1707754887808,7139,Pay Order,200,OK,Thread Group 1-37,text,true,,540,552,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,7135,0,0
+1707754890392,4944,Update Password,200,OK,Thread Group 1-31,text,true,,524,498,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,4940,0,0
+1707754888352,7346,Order Detail,200,OK,Thread Group 1-39,text,true,,1566,384,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=2778bc4,7345,0,0
+1707754887417,8391,Create Order,200,OK,Thread Group 1-41,text,true,,1524,792,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8385,0,0
+1707754889421,6928,Get Ticket,200,OK,Thread Group 1-43,text,true,,10439,573,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6889,0,0
+1707754888935,7446,Get Order,200,OK,Thread Group 1-35,text,true,,2490,377,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,7444,0,0
+1707754891958,4474,Get User,200,OK,Thread Group 1-33,text,true,,619,358,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4470,0,0
+1707754893678,2936,Login,200,OK,Thread Group 1-47,text,true,,730,274,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2932,0,0
+1707754893670,3152,Forget Password,200,OK,Thread Group 1-30,text,true,,618,252,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,3150,0,0
+1707754892233,4764,Update User,200,OK,Thread Group 1-32,text,true,,619,558,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4764,0,62
+1707754894913,2298,Get Airport,200,OK,Thread Group 1-45,text,true,,768,193,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,2294,0,0
+1707754893075,4401,Notification,200,OK,Thread Group 1-46,text,true,,14685,367,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4397,0,0
+1707754893065,4547,Register,201,Created,Thread Group 1-48,text,true,,705,405,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4547,0,69
+1707754892739,5324,Delete Order,200,OK,Thread Group 1-34,text,true,,540,562,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=3bca028,5322,0,0
+1707754891605,7058,Pay Order,200,OK,Thread Group 1-38,text,true,,540,552,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,7058,0,0
+1707754895336,3352,Forget Password,200,OK,Thread Group 1-31,text,true,,618,252,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,3350,0,0
+1707754897488,1818,Get Flight Classes,200,OK,Thread Group 1-46,text,true,,558,183,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1818,0,0
+1707754896823,2847,Reset Password,201,Created,Thread Group 1-30,text,true,,768,279,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2847,0,0
+1707754892157,7880,Order Detail,200,OK,Thread Group 1-40,text,true,,1566,384,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=27d6d8e,7880,0,0
+1707754893355,6766,Get Ticket,200,OK,Thread Group 1-44,text,true,,10439,573,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6726,0,0
+1707754890706,9424,Create Order,200,OK,Thread Group 1-42,text,true,,1524,792,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,9422,0,0
+1707754892655,7518,Get Order,200,OK,Thread Group 1-36,text,true,,2978,377,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,7515,0,0
+1707754897612,2618,Login,200,OK,Thread Group 1-48,text,true,,730,274,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,2614,0,0
+1707754896432,4421,Update User,200,OK,Thread Group 1-33,text,true,,619,558,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4417,0,65
+1707754896614,4572,Notification,200,OK,Thread Group 1-47,text,true,,14951,367,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4503,0,0
+1707754896381,5253,Delete Order,200,OK,Thread Group 1-35,text,true,,540,562,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=f89ef78,5249,0,0
+1707754897066,4580,Register,201,Created,Thread Group 1-49,text,true,,705,405,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4580,0,68
+1707754899307,2425,Get Airport,200,OK,Thread Group 1-46,text,true,,768,193,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,2425,0,0
+1707754896997,4869,Update Password,200,OK,Thread Group 1-32,text,true,,524,498,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,4868,0,0
+1707754894948,7379,Get Order,200,OK,Thread Group 1-37,text,true,,2490,377,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,7378,0,0
+1707754898688,3983,Reset Password,201,Created,Thread Group 1-31,text,true,,768,279,20,20,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,3983,0,0
+1707754898064,4618,Get User,200,OK,Thread Group 1-34,text,true,,619,358,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4618,0,63
+1707754901186,1551,Get Flight Classes,200,OK,Thread Group 1-47,text,true,,558,183,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1549,0,0
+1707754901646,1838,Login,200,OK,Thread Group 1-49,text,true,,730,274,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1834,0,0
+1707754895698,8118,Pay Order,200,OK,Thread Group 1-39,text,true,,540,552,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,8117,0,0
+1707754897211,6807,Get Ticket,200,OK,Thread Group 1-45,text,true,,10439,573,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6768,0,0
+1707754895809,8380,Order Detail,200,OK,Thread Group 1-41,text,true,,1566,384,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=b5e36c2,8374,0,0
+1707754900230,4648,Notification,200,OK,Thread Group 1-48,text,true,,15245,367,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4580,0,0
+1707754901066,4216,Register,201,Created,Thread Group 1-50,text,true,,705,405,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/register,4216,0,65
+1707754900173,5247,Delete Order,200,OK,Thread Group 1-36,text,true,,540,562,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=4eed8b2,5247,0,0
+1707754901867,3677,Forget Password,200,OK,Thread Group 1-32,text,true,,618,252,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,3676,0,0
+1707754896349,9281,Create Order,200,OK,Thread Group 1-43,text,true,,1524,792,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,9275,0,0
+1707754902738,3015,Get Airport,200,OK,Thread Group 1-47,text,true,,768,193,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,3015,0,0
+1707754900853,4961,Update Password,200,OK,Thread Group 1-33,text,true,,524,498,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,4957,0,0
+1707754898663,7429,Get Order,200,OK,Thread Group 1-38,text,true,,2490,377,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,7428,0,0
+1707754901634,4620,Get User,200,OK,Thread Group 1-35,text,true,,619,358,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4616,0,67
+1707754900037,6422,Pay Order,200,OK,Thread Group 1-40,text,true,,540,552,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,6418,0,0
+1707754904878,1632,Get Flight Classes,200,OK,Thread Group 1-48,text,true,,558,183,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1627,0,0
+1707754902682,4194,Update User,200,OK,Thread Group 1-34,text,true,,619,558,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,4189,0,0
+1707754905282,1753,Login,200,OK,Thread Group 1-50,text,true,,730,274,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/login,1750,0,0
+1707754900130,7297,Order Detail,200,OK,Thread Group 1-42,text,true,,1566,384,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=2a56adc,7296,0,0
+1707754905544,1926,Reset Password,201,Created,Thread Group 1-32,text,true,,768,279,19,19,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1926,0,0
+1707754903485,4041,Notification,200,OK,Thread Group 1-49,text,true,,15539,367,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,4008,0,0
+1707754902327,5280,Delete Order,200,OK,Thread Group 1-37,text,true,,540,562,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=f5bfb10,5279,0,0
+1707754905814,2069,Forget Password,200,OK,Thread Group 1-33,text,true,,618,252,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2066,0,0
+1707754906510,1583,Get Airport,200,OK,Thread Group 1-48,text,true,,768,193,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1580,0,0
+1707754905421,2809,Get User,200,OK,Thread Group 1-36,text,true,,619,358,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,2805,0,61
+1707754901732,6742,Get Ticket,200,OK,Thread Group 1-46,text,true,,10467,573,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6736,0,0
+1707754907527,1355,Get Flight Classes,200,OK,Thread Group 1-49,text,true,,558,183,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1351,0,0
+1707754900121,9116,Create Order,200,OK,Thread Group 1-44,text,true,,1524,792,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,9109,0,0
+1707754906254,3078,Update User,200,OK,Thread Group 1-35,text,true,,619,558,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,3077,0,0
+1707754906093,3991,Delete Order,200,OK,Thread Group 1-38,text,true,,540,562,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=ea240f8,3990,0,0
+1707754907883,2218,Reset Password,201,Created,Thread Group 1-33,text,true,,768,279,18,18,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2218,0,0
+1707754903816,6357,Get Order,200,OK,Thread Group 1-39,text,true,,2002,377,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,6356,0,0
+1707754907036,3689,Notification,200,OK,Thread Group 1-50,text,true,,15539,367,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/notifications,3665,0,0
+1707754906877,3892,Update Password,200,OK,Thread Group 1-34,text,true,,524,498,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,3889,0,0
+1707754908882,2032,Get Airport,200,OK,Thread Group 1-49,text,true,,768,193,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,2026,0,0
+1707754904189,6781,Pay Order,200,OK,Thread Group 1-41,text,true,,540,552,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,6778,0,0
+1707754907607,3600,Get User,200,OK,Thread Group 1-37,text,true,,619,358,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,3597,0,0
+1707754908231,3362,Update User,200,OK,Thread Group 1-36,text,true,,619,558,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,3359,0,0
+1707754905639,5984,Order Detail,200,OK,Thread Group 1-43,text,true,,1566,384,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=bb434ef,5977,0,0
+1707754905753,5966,Get Ticket,200,OK,Thread Group 1-47,text,true,,10446,573,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5954,0,0
+1707754910726,1280,Get Flight Classes,200,OK,Thread Group 1-50,text,true,,558,183,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/class,1276,0,0
+1707754906459,6004,Get Order,200,OK,Thread Group 1-40,text,true,,2490,377,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,6001,0,0
+1707754904019,8837,Create Order,200,OK,Thread Group 1-45,text,true,,1524,792,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8831,0,0
+1707754909332,3694,Update Password,200,OK,Thread Group 1-35,text,true,,524,498,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,3689,0,0
+1707754910770,2274,Forget Password,200,OK,Thread Group 1-34,text,true,,618,252,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2270,0,0
+1707754910084,2989,Get User,200,OK,Thread Group 1-38,text,true,,619,358,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,2988,0,0
+1707754912006,1468,Get Airport,200,OK,Thread Group 1-50,text,true,,768,193,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/airport?value=Y,1464,0,0
+1707754907427,6408,Pay Order,200,OK,Thread Group 1-42,text,true,,540,552,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,6403,0,0
+1707754910173,3829,Delete Order,200,OK,Thread Group 1-39,text,true,,540,562,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=2778bc4,3829,0,0
+1707754911208,2846,Update User,200,OK,Thread Group 1-37,text,true,,619,558,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,2846,0,62
+1707754908094,6375,Get Ticket,200,OK,Thread Group 1-48,text,true,,10439,573,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6338,0,0
+1707754911593,3299,Update Password,200,OK,Thread Group 1-36,text,true,,524,498,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,3299,0,0
+1707754913026,2051,Forget Password,200,OK,Thread Group 1-35,text,true,,618,252,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2047,0,0
+1707754913044,2076,Reset Password,201,Created,Thread Group 1-34,text,true,,768,279,17,17,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2076,0,0
+1707754909237,6114,Order Detail,200,OK,Thread Group 1-44,text,true,,1566,384,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=4ad53bf,6108,0,0
+1707754912463,3884,Delete Order,200,OK,Thread Group 1-40,text,true,,540,562,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=27d6d8e,3880,0,0
+1707754913073,3304,Update User,200,OK,Thread Group 1-38,text,true,,619,558,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,3300,0,62
+1707754908475,8006,Create Order,200,OK,Thread Group 1-46,text,true,,1524,792,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8005,0,0
+1707754910971,5631,Get Order,200,OK,Thread Group 1-41,text,true,,2490,377,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,5628,0,0
+1707754910914,5918,Get Ticket,200,OK,Thread Group 1-49,text,true,,10439,573,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,5878,0,0
+1707754914003,3212,Get User,200,OK,Thread Group 1-39,text,true,,619,358,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,3211,0,0
+1707754911623,5945,Pay Order,200,OK,Thread Group 1-43,text,true,,540,552,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,5941,0,0
+1707754914893,2693,Forget Password,200,OK,Thread Group 1-36,text,true,,618,252,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2690,0,0
+1707754915077,2514,Reset Password,201,Created,Thread Group 1-35,text,true,,768,279,16,16,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2513,0,0
+1707754914055,3749,Update Password,200,OK,Thread Group 1-37,text,true,,524,498,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,3746,0,0
+1707754916347,2279,Get User,200,OK,Thread Group 1-40,text,true,,619,358,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,2275,0,0
+1707754912856,5938,Order Detail,200,OK,Thread Group 1-45,text,true,,1566,384,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=5f53b44,5932,0,0
+1707754916378,3028,Update Password,200,OK,Thread Group 1-38,text,true,,524,498,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,3025,0,0
+1707754917586,1855,Reset Password,201,Created,Thread Group 1-36,text,true,,768,279,15,15,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1855,0,0
+1707754913475,6181,Get Ticket,200,OK,Thread Group 1-50,text,true,,10439,573,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/flight/ticket,6144,0,0
+1707754913836,5841,Get Order,200,OK,Thread Group 1-42,text,true,,2002,377,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,5840,0,0
+1707754911719,8121,Create Order,200,OK,Thread Group 1-47,text,true,,1524,792,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,8115,0,0
+1707754917804,2227,Forget Password,200,OK,Thread Group 1-37,text,true,,618,252,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2222,0,0
+1707754917215,2852,Update User,200,OK,Thread Group 1-39,text,true,,619,558,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,2852,0,63
+1707754916602,3472,Delete Order,200,OK,Thread Group 1-41,text,true,,540,562,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=b5e36c2,3469,0,0
+1707754918627,2247,Update User,200,OK,Thread Group 1-40,text,true,,619,558,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,2243,0,0
+1707754919407,1862,Forget Password,200,OK,Thread Group 1-38,text,true,,618,252,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1859,0,0
+1707754915352,6016,Pay Order,200,OK,Thread Group 1-44,text,true,,540,552,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,6013,0,0
+1707754920031,1741,Reset Password,201,Created,Thread Group 1-37,text,true,,768,279,14,14,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1741,0,0
+1707754914469,7586,Create Order,200,OK,Thread Group 1-48,text,true,,1524,792,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,7580,0,0
+1707754916481,5673,Order Detail,200,OK,Thread Group 1-46,text,true,,1566,384,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=39a8914,5672,0,0
+1707754920067,2321,Update Password,200,OK,Thread Group 1-39,text,true,,524,498,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,2317,0,0
+1707754920075,2597,Get User,200,OK,Thread Group 1-41,text,true,,619,358,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,2593,0,0
+1707754919677,3037,Delete Order,200,OK,Thread Group 1-42,text,true,,540,562,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=2a56adc,3037,0,0
+1707754917569,5375,Get Order,200,OK,Thread Group 1-43,text,true,,2002,377,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,5373,0,0
+1707754920875,2528,Update Password,200,OK,Thread Group 1-40,text,true,,524,498,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,2525,0,0
+1707754921270,2134,Reset Password,201,Created,Thread Group 1-38,text,true,,768,279,13,13,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,2134,0,0
+1707754922673,1442,Update User,200,OK,Thread Group 1-41,text,true,,619,558,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1438,0,0
+1707754918794,5406,Pay Order,200,OK,Thread Group 1-45,text,true,,540,552,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,5406,0,0
+1707754922388,2006,Forget Password,200,OK,Thread Group 1-39,text,true,,618,252,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2002,0,0
+1707754922715,1747,Get User,200,OK,Thread Group 1-42,text,true,,619,358,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1747,0,0
+1707754916832,7748,Create Order,200,OK,Thread Group 1-49,text,true,,1524,792,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,7741,0,0
+1707754919840,5194,Order Detail,200,OK,Thread Group 1-47,text,true,,1566,384,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=e5c2297,5189,0,0
+1707754922944,2705,Delete Order,200,OK,Thread Group 1-43,text,true,,540,562,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=bb434ef,2702,0,0
+1707754923403,2370,Forget Password,200,OK,Thread Group 1-40,text,true,,618,252,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,2367,0,62
+1707754924115,1725,Update Password,200,OK,Thread Group 1-41,text,true,,524,498,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,1725,0,0
+1707754924394,1459,Reset Password,201,Created,Thread Group 1-39,text,true,,768,279,12,12,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1459,0,0
+1707754921369,4657,Get Order,200,OK,Thread Group 1-44,text,true,,2002,377,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,4656,0,0
+1707754924463,1803,Update User,200,OK,Thread Group 1-42,text,true,,619,558,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1801,0,0
+1707754919656,6654,Create Order,200,OK,Thread Group 1-50,text,true,,1524,792,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders,6647,0,0
+1707754925649,1296,Get User,200,OK,Thread Group 1-43,text,true,,619,358,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1292,0,0
+1707754922056,5078,Order Detail,200,OK,Thread Group 1-48,text,true,,1566,384,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=b880f4e,5072,0,0
+1707754922154,4986,Pay Order,200,OK,Thread Group 1-46,text,true,,540,552,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,4986,0,0
+1707754925774,1471,Reset Password,201,Created,Thread Group 1-40,text,true,,768,279,11,11,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1471,0,0
+1707754925840,1546,Forget Password,200,OK,Thread Group 1-41,text,true,,618,252,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1546,0,63
+1707754926265,1700,Update Password,200,OK,Thread Group 1-42,text,true,,524,498,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,1699,0,0
+1707754926945,1290,Update User,200,OK,Thread Group 1-43,text,true,,619,558,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1286,0,0
+1707754926026,2343,Delete Order,200,OK,Thread Group 1-44,text,true,,540,562,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=4ad53bf,2339,0,0
+1707754924200,4419,Get Order,200,OK,Thread Group 1-45,text,true,,2002,377,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,4418,0,0
+1707754927386,1462,Reset Password,201,Created,Thread Group 1-41,text,true,,768,279,10,10,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1462,0,0
+1707754925035,4357,Pay Order,200,OK,Thread Group 1-47,text,true,,540,552,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,4356,0,0
+1707754927965,1485,Forget Password,200,OK,Thread Group 1-42,text,true,,618,252,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1485,0,0
+1707754924580,4916,Order Detail,200,OK,Thread Group 1-49,text,true,,1566,384,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=b419f2c,4911,0,0
+1707754928370,1293,Get User,200,OK,Thread Group 1-44,text,true,,619,358,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1289,0,0
+1707754928235,1685,Update Password,200,OK,Thread Group 1-43,text,true,,524,498,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,1681,0,0
+1707754928619,2104,Delete Order,200,OK,Thread Group 1-45,text,true,,540,562,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=5f53b44,2104,0,0
+1707754926309,4517,Order Detail,200,OK,Thread Group 1-50,text,true,,1566,384,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/details?orderId=fc15989,4511,0,0
+1707754929450,1546,Reset Password,201,Created,Thread Group 1-42,text,true,,768,279,9,9,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1546,0,66
+1707754927139,3966,Get Order,200,OK,Thread Group 1-46,text,true,,2002,377,8,8,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,3965,0,0
+1707754929664,1506,Update User,200,OK,Thread Group 1-44,text,true,,619,558,8,8,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1502,0,0
+1707754929920,1488,Forget Password,200,OK,Thread Group 1-43,text,true,,618,252,8,8,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1483,0,0
+1707754927133,4400,Pay Order,200,OK,Thread Group 1-48,text,true,,540,552,8,8,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,4397,0,0
+1707754930723,1284,Get User,200,OK,Thread Group 1-45,text,true,,619,358,8,8,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1281,0,0
+1707754931171,1692,Update Password,200,OK,Thread Group 1-44,text,true,,524,498,8,8,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,1688,0,0
+1707754931409,1480,Reset Password,201,Created,Thread Group 1-43,text,true,,768,279,8,8,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1480,0,0
+1707754931106,2107,Delete Order,200,OK,Thread Group 1-46,text,true,,540,562,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=39a8914,2107,0,0
+1707754932008,1291,Update User,200,OK,Thread Group 1-45,text,true,,619,558,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1287,0,0
+1707754929391,3998,Get Order,200,OK,Thread Group 1-47,text,true,,2002,377,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,3998,0,0
+1707754929496,4177,Pay Order,200,OK,Thread Group 1-49,text,true,,540,552,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,4174,0,0
+1707754933214,1306,Get User,200,OK,Thread Group 1-46,text,true,,619,358,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1305,0,0
+1707754932864,1694,Forget Password,200,OK,Thread Group 1-44,text,true,,618,252,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1692,0,0
+1707754933299,1679,Update Password,200,OK,Thread Group 1-45,text,true,,524,498,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,1674,0,0
+1707754930827,4196,Pay Order,200,OK,Thread Group 1-50,text,true,,540,552,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders/payment,4192,0,0
+1707754933391,2137,Delete Order,200,OK,Thread Group 1-47,text,true,,540,562,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=e5c2297,2133,0,0
+1707754931535,4187,Get Order,200,OK,Thread Group 1-48,text,true,,2002,377,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,4187,0,0
+1707754934520,1282,Update User,200,OK,Thread Group 1-46,text,true,,619,558,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1281,0,0
+1707754934558,1663,Reset Password,201,Created,Thread Group 1-44,text,true,,768,279,7,7,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1663,0,0
+1707754934978,1494,Forget Password,200,OK,Thread Group 1-45,text,true,,618,252,6,6,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1490,0,0
+1707754935528,1285,Get User,200,OK,Thread Group 1-47,text,true,,619,358,6,6,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1283,0,0
+1707754935802,1686,Update Password,200,OK,Thread Group 1-46,text,true,,524,498,6,6,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,1686,0,0
+1707754935722,2118,Delete Order,200,OK,Thread Group 1-48,text,true,,540,562,6,6,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=b880f4e,2115,0,0
+1707754936473,1461,Reset Password,201,Created,Thread Group 1-45,text,true,,768,279,6,6,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1461,0,0
+1707754933675,4426,Get Order,200,OK,Thread Group 1-49,text,true,,2490,377,5,5,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,4424,0,0
+1707754936813,1492,Update User,200,OK,Thread Group 1-47,text,true,,619,558,5,5,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1489,0,0
+1707754937841,1287,Get User,200,OK,Thread Group 1-48,text,true,,619,358,5,5,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1283,0,0
+1707754935025,4206,Get Order,200,OK,Thread Group 1-50,text,true,,2002,377,5,5,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?status=COMPLETED,4206,0,0
+1707754937488,1897,Forget Password,200,OK,Thread Group 1-46,text,true,,618,252,5,5,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1896,0,0
+1707754938306,1885,Update Password,200,OK,Thread Group 1-47,text,true,,524,498,5,5,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,1885,0,0
+1707754938101,2123,Delete Order,200,OK,Thread Group 1-49,text,true,,540,562,5,5,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=b419f2c,2119,0,0
+1707754939129,1293,Update User,200,OK,Thread Group 1-48,text,true,,619,558,5,5,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1288,0,0
+1707754939385,1683,Reset Password,201,Created,Thread Group 1-46,text,true,,768,279,5,5,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1683,0,0
+1707754939232,2116,Delete Order,200,OK,Thread Group 1-50,text,true,,540,562,4,4,https://be-finpro-ev4x53wgca-uc.a.run.app/api/orders?orderId=fc15989,2112,0,0
+1707754940191,1487,Forget Password,200,OK,Thread Group 1-47,text,true,,618,252,4,4,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1481,0,0
+1707754940225,1499,Get User,200,OK,Thread Group 1-49,text,true,,619,358,4,4,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1496,0,0
+1707754940422,1878,Update Password,200,OK,Thread Group 1-48,text,true,,524,498,4,4,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,1874,0,0
+1707754941348,1505,Get User,200,OK,Thread Group 1-50,text,true,,619,358,4,4,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1505,0,0
+1707754941679,1464,Reset Password,201,Created,Thread Group 1-47,text,true,,768,279,4,4,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1464,0,0
+1707754941724,1495,Update User,200,OK,Thread Group 1-49,text,true,,619,558,3,3,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1491,0,0
+1707754942300,1489,Forget Password,200,OK,Thread Group 1-48,text,true,,618,252,3,3,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1485,0,0
+1707754942853,1491,Update User,200,OK,Thread Group 1-50,text,true,,619,558,3,3,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user,1488,0,0
+1707754943220,1680,Update Password,200,OK,Thread Group 1-49,text,true,,524,498,3,3,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,1677,0,0
+1707754943789,1671,Reset Password,201,Created,Thread Group 1-48,text,true,,768,279,3,3,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1671,0,0
+1707754944344,1880,Update Password,200,OK,Thread Group 1-50,text,true,,524,498,2,2,https://be-finpro-ev4x53wgca-uc.a.run.app/api/user/password,1878,0,0
+1707754944900,1900,Forget Password,200,OK,Thread Group 1-49,text,true,,618,252,2,2,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1896,0,0
+1707754946224,1689,Forget Password,200,OK,Thread Group 1-50,text,true,,618,252,2,2,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password,1685,0,0
+1707754946800,1680,Reset Password,201,Created,Thread Group 1-49,text,true,,768,279,2,2,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1680,0,0
+1707754947913,1666,Reset Password,201,Created,Thread Group 1-50,text,true,,768,279,1,1,https://be-finpro-ev4x53wgca-uc.a.run.app/api/forget-password/reset-password,1666,0,0
